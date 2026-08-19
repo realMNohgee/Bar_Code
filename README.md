@@ -1,4 +1,5 @@
 # Bar_Code 🧾
+![CI](https://github.com/realMNohgee/Bar_Code/actions/workflows/ci.yml/badge.svg) ![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 **Validate and render 1D barcodes — EAN-13, UPC-A, and EAN-8 — from the command line.** Zero dependencies, pure Python 3 standard library.
 
